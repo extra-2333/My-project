@@ -1,0 +1,10 @@
+Crea aquí una subcarpeta por cada clase de audio que quieras
+reconocer, y mete dentro los archivos .wav de esa clase.
+
+Ejemplo:
+    dataset/voz/afirmacion/audio001.wav
+    dataset/voz/negacion/audio001.wav
+
+Formato aceptado: .wav
+Si tienes .mp3 u otro formato, conviértelo primero, por ejemplo:
+    ffmpeg -i entrada.mp3 salida.wav

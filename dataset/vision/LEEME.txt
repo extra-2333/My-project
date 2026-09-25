@@ -1,0 +1,10 @@
+Crea aquí una subcarpeta por cada clase que quieras que el modelo
+reconozca, y mete dentro las imágenes de esa clase.
+
+Ejemplo:
+    dataset/vision/gato/img001.jpg
+    dataset/vision/gato/img002.jpg
+    dataset/vision/perro/img001.jpg
+    dataset/vision/perro/img002.jpg
+
+Formatos aceptados: .jpg .jpeg .png .bmp
